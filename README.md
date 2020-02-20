@@ -1,2 +1,2 @@
 # Web-Development
-Repository for all Web Development class projects
+This is a tutorial on how to setup git
